@@ -1,0 +1,1 @@
+ezplot((sin(x))^6*tan(1-x)*exp(1)^(30*x),0,1)
